@@ -4,4 +4,4 @@ While true:
     if i = 0:
         print("Exiting the Program")
         break
-    print(f'{i} square is {i ★★ 2}') 
+    print(f'{i} square is {i ** 2}') 
